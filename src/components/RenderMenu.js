@@ -1,5 +1,5 @@
-import React,{useState} from 'react';
-import { Menu ,MenuTheme} from 'antd';
+import React from 'react';
+import { Menu } from 'antd';
 
 const RenderMenu = ({ menuData }) => {
 
