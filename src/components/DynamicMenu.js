@@ -5,7 +5,8 @@ import RenderMenu from './RenderMenu';
 
 const DynamicMenu = () => {
   const [menuData, setMenuData] = useState([]);
-  console.log(menuData);
+  // console.log(menuData);y
+  
   const [token, setToken] = useState('');
 
   const [loading, setLoading] = useState(true);
